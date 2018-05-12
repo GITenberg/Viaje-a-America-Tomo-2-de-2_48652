@@ -1,10 +1,16 @@
 _repo: Viaje-a-America-Tomo-2-de-2_48652
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48652-h/images/cover.jpg
 creator:
   author:
     agent_name: Valls, Rafael Puig y
     gutenberg_agent_id: '44902'
     url: http://www.gutenberg.org/2009/agents/44902
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48652#Viaje-a-America-Tomo-2-de-2
 gutenberg_issued: '2015-04-06'
 gutenberg_type: Text
 identifiers:
